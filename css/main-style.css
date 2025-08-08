@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Alatsi&display=swap'); /* se puede usar link o @import es indistinto */
+
+
+*{box-sizing: border-box;}
+
+body{font-family: 'Alatsi', sans-serif;}
