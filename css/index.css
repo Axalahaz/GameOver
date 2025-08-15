@@ -235,6 +235,8 @@ footer{
 }
 
 #copyAutor{
+    margin: auto;
+    width: 90%;
     border-top: 0.3px solid #4A4A4A;
 }
 
@@ -372,3 +374,4 @@ footer{
         padding: 5%;
     }
 }
+
